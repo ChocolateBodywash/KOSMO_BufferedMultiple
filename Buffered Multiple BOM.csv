@@ -1,0 +1,15 @@
+Reference,Value,Datasheet,Package,Qty
+"C1,C2",47uF,~,Electrolytic Capacitor,2
+"C3,C4,C5,C6",0.1uF,~,Ceramic Disc Capacitor,4
+"D1,D2",1N5819,http://www.vishay.com/docs/88525/1n5817.pdf,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,2
+D3,LED,~,LED 5.0mm,1
+E1,Conn_02x05_Pin,~,Pins_2x05_2.54mm_TH_EurorackPower_Shrouded,1
+J1,IN,~,Jack_6.35mm,1
+J2,OUT 1,~,Jack_6.35mm,1
+J3,OUT 2,~,Jack_6.35mm,1
+J4,OUT 3,~,Jack_6.35mm,1
+"R1,R2",10,~,Metal Film 1/4 Resistor,2
+"R3,R4,R5",100R,~,Metal Film 1/4 Resistor,3
+R6,1K,~,Metal Film 1/4 Resistor,1
+R7,1M,~,Metal Film 1/4 Resistor,1
+U3,TL074,http://www.ti.com/lit/ds/symlink/tl071.pdf,Package_DIP:DIP-14_W7.62mm,1
